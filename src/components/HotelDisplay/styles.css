@@ -1,0 +1,41 @@
+.hotel-info-header {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  /* border-bottom: 1px white solid; */
+  background: rgba(255, 255, 255, 0.219);
+  padding: 5px 15px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.hotel-info-body {
+  padding: 25px;
+  border-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.hotel-ranking-text {
+  color: rgb(132, 193, 204);
+  color: white;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.hotel-price-display {
+  color: rgb(132, 193, 204);
+  font-weight: bold;
+  padding: 10px 0px;
+  font-size: 20px;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

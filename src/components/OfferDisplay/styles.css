@@ -1,0 +1,21 @@
+.offer-logo {
+  height: 50px;
+  border-radius: 5px;
+}
+
+.offer-wrapper {
+  display: inline-block;
+  margin: 5px;
+  text-decoration: none;
+  text-align: center;
+  background: rgba(255, 255, 255);
+  border-radius: 5px;
+  padding: 2px 3px;
+}
+
+.offer-price {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}

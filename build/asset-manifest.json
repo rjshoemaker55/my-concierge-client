@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myconcierge/static/css/main.5e9e1111.chunk.css",
+    "main.js": "/myconcierge/static/js/main.51326199.chunk.js",
+    "main.js.map": "/myconcierge/static/js/main.51326199.chunk.js.map",
+    "runtime-main.js": "/myconcierge/static/js/runtime-main.a7143456.js",
+    "runtime-main.js.map": "/myconcierge/static/js/runtime-main.a7143456.js.map",
+    "static/js/2.1af6a4ad.chunk.js": "/myconcierge/static/js/2.1af6a4ad.chunk.js",
+    "static/js/2.1af6a4ad.chunk.js.map": "/myconcierge/static/js/2.1af6a4ad.chunk.js.map",
+    "index.html": "/myconcierge/index.html",
+    "precache-manifest.dd80ef753ed2af7021a575ec0016dc62.js": "/myconcierge/precache-manifest.dd80ef753ed2af7021a575ec0016dc62.js",
+    "service-worker.js": "/myconcierge/service-worker.js",
+    "static/css/main.5e9e1111.chunk.css.map": "/myconcierge/static/css/main.5e9e1111.chunk.css.map",
+    "static/media/App.css": "/myconcierge/static/media/Background.b4f844e4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7143456.js",
+    "static/js/2.1af6a4ad.chunk.js",
+    "static/css/main.5e9e1111.chunk.css",
+    "static/js/main.51326199.chunk.js"
+  ]
+}

@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+}
+
+body {
+  margin: 0px;
+  min-height: 100%;
+  width: 100%;
+  font-family: 'Karla', sans-serif;
+  background: rgb(35, 65, 75);
+}
+
+#root {
+  min-height: 100%;
+}
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgb(204, 204, 204);
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: rgb(204, 204, 204);
+}
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: rgb(204, 204, 204);
+}

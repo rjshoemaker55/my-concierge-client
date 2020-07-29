@@ -1,0 +1,28 @@
+{
+  "flights": [
+    {
+      "depTime": "4:30pm",
+      "arriveTime": "7:30pm",
+      "duration": "3 hours",
+      "airline": "American Airlines",
+      "airlineLogo": "https://static.dezeen.com/uploads/2013/01/dezeen_American-Airlines-logo-and-livery_4a.jpg",
+      "flightNumber": "AA-170"
+    },
+    {
+      "depTime": "7:45am",
+      "arriveTime": "2:45pm",
+      "duration": "7 hours",
+      "airline": "United Airlines",
+      "airlineLogo": "https://media.glassdoor.com/sqll/683/united-airlines-squarelogo-1562605013842.png",
+      "flightNumber": "UA-55"
+    },
+    {
+      "depTime": "6:00am",
+      "arriveTime": "5:45pm",
+      "duration": "11 hours 45 minutes",
+      "airline": "Virgin Airlines",
+      "airlineLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Virgin-logo.svg/1200px-Virgin-logo.svg.png",
+      "flightNumber": "VA-585"
+    }
+  ]
+}

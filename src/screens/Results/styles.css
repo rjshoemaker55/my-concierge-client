@@ -1,0 +1,42 @@
+#results-page-wrapper {
+  width: 100%;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+#instructions-bar {
+  padding: 5px 0px;
+  background: rgba(245, 168, 69, 0.75);
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 2px white solid;
+  border-top: 2px white solid;
+}
+
+#results-header {
+  font-size: 50px;
+  letter-spacing: 2px;
+  font-family: 'Lobster', cursive;
+  margin-left: 10px;
+}
+
+.divider {
+  height: 5px;
+  background: #777;
+}
+
+#trip-info-wrapper {
+  background-color: rgb(133, 167, 187, 0.65);
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px 5px;
+}
+
+.trip-info-section {
+  text-align: center;
+}
+
+.hotel-list {
+  margin-top: 59px;
+}

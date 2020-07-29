@@ -1,0 +1,58 @@
+/* Tablets */
+@media only screen and (max-width: 768px) {
+  /* Navbar */
+  #navbar-wrapper {
+    text-align: center;
+  }
+
+  #navbar-form {
+    margin: 10px 0px;
+  }
+
+  #sort-dropdown {
+    margin: 10px 0px;
+  }
+
+  /* Results page */
+  .hotel-list {
+    margin-top: 160px;
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  /* Navbar */
+  #navbar-wrapper {
+    text-align: left;
+    padding-top: 0;
+  }
+
+  .navbar-inputs {
+    display: block;
+    margin-top: 5px;
+    width: 300px;
+    font-size: 20px;
+  }
+
+  .open-full-navbar {
+    display: block;
+  }
+
+  /* Landing page */
+  .landing-header-wrapper {
+    margin: 300px auto 0px auto;
+    text-align: center;
+  }
+  .landing-header {
+    margin-top: 10px;
+    line-height: 0.8;
+  }
+
+  /* Results page */
+  .hotel-list {
+    margin-top: 60px;
+  }
+
+  .hotel-info-header {
+    font-size: 20px;
+  }
+}
