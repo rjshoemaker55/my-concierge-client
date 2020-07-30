@@ -3,7 +3,7 @@ export const loadResults = (data) => {
     const { destCity, arriveDate, numberNights, sortBy } = data;
 
     const getLocationId = async () => {
-      await fetch(`http://localhost:4000/locationid/${destCity}`).then((res) =>
+      await fetch(`/locationid/${destCity}`).then((res) =>
         res.json().then((data) => {
           if (data.error) {
             reject({ msg: 'Invalid location.', type: 'location' });
@@ -16,7 +16,7 @@ export const loadResults = (data) => {
 
     const getHotelList = async (locationId) => {
       await fetch(
-        `http://localhost:4000/hotellist/${locationId}/${arriveDate}/${numberNights}/${sortBy}`
+        `/hotellist/${locationId}/${arriveDate}/${numberNights}/${sortBy}`
       )
         .then((res) => {
           return res.json();
